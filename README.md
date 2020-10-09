@@ -4,7 +4,7 @@ How To Run:
 
 pkg install figlet
 
-cd /__pycache__
+cd /JOCX
 
 python run.cpython-38.pyc
 

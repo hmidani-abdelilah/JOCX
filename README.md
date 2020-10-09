@@ -49,6 +49,6 @@ will destroy . . you can take the file
 and send it to the target . . when does
 he run various file his device will destroy"
 
-2- Warning ! :" Do not try to run the tool with
+3- Warning ! :" Do not try to run the tool with
  a different way . . or  your device will
  destroy  . . please use the way in the Top"

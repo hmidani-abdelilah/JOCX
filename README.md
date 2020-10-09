@@ -3,8 +3,11 @@
 How To Run:
 
 pkg install figlet
+
 cd /__pycache__
+
 python run.cpython-38.pyc
+
 .
 .
 .
